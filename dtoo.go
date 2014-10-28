@@ -102,5 +102,4 @@ The above example could be alternatively achieved by using the recursive Scrape 
       },
     }, url)
 */
-
 package dtoo
