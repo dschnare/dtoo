@@ -1,4 +1,4 @@
-[![GoDoc](https://godoc.org/github.com/dschnare/jsonfilter?status.svg)](https://godoc.org/github.com/dschnare/jsonfilter)
+[![GoDoc](https://godoc.org/github.com/dschnare/dtoo?status.svg)](https://godoc.org/github.com/dschnare/dtoo)
 
 # Overview
 
